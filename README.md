@@ -1,6 +1,6 @@
 # GameTest-Fabric
 
-**Download: [Modrinth](https://modrinth.com/datapack/gametest-fabric/versions)**
+**Download: [Modrinth](https://modrinth.com/gametest-fabric/versions)**
 
 **For minecraft 26.3!**
 
