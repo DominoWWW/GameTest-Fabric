@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# Gradle and local tool configuration
+local.properties
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+*.launch
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# Fabric Loom
+run/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Java crash reports and profiling output
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# Local environment and tool caches
+.env
+.env.*
+!.env.example
+.cache/
